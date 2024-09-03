@@ -1,0 +1,1 @@
+This is a project that is building a website from the ground up. I will be using github to show my work throughout the project and also I will mainly be using VScode as my text editor. I will be using HTML during this project to create a recipe-hub that links to a bunch of different recipes. 
